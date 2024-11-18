@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 
 * 🌍  I'm based in Bangkok Thailand
-* ✉️  You can contact me at [thatphongwork@gamil.com](mailto:thatphongwork@gamil.com)
+* ✉️  You can contact me at [thatphongwork@gamil.com](mailto:thatphongwork@gmail.com)
 * 🤝  I'm open to collaborating on AI, Machine Learning and Data Analysis
 * ⚡  An Economics student Faculty of Economics, Thammasat University, Thailand
 
